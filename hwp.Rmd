@@ -1,6 +1,6 @@
 ---
 title: "hwp 한글대체"
-author: "cischoi"
+author: "cischoi yoomin"
 date: "2018년 10월 28일"
 output: html_document
 ---
